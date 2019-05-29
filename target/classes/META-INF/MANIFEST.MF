@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Pensador
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tinch
+Implementation-Vendor-Id: Adivinador
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Pensador
+Created-By: Maven Integration for Eclipse
+
