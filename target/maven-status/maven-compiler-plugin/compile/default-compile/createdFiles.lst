@@ -1,1 +1,14 @@
+Adivinador\Pensador\service\impl\adivinadorServiceImpl.class
+Adivinador\Pensador\entity\NumeroElegido.class
 Adivinador\Pensador\PensadorApplication.class
+Adivinador\Pensador\service\ElegirNumeroService.class
+Adivinador\Pensador\service\numeroAleatorioService.class
+Adivinador\Pensador\repository\NumeroPensadoRepository.class
+Adivinador\Pensador\service\impl\NumeroAleatorioServiceImpl.class
+Adivinador\Pensador\service\impl\ElegirNumeroServiceImpl.class
+Adivinador\Pensador\service\adivinadorService.class
+Adivinador\Pensador\service\AdivinarNumeroservice.class
+Adivinador\Pensador\configuration\SwaggerConfig.class
+Adivinador\Pensador\repository\NumeroElegidoRepository.class
+Adivinador\Pensador\service\impl\AdivinarNumeroServiceImpl.class
+Adivinador\Pensador\entity\NumeroPensado.class
